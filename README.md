@@ -14,7 +14,7 @@ Simple User Interface: The user-friendly interface makes it easy for anyone to u
 
 Installation
 Clone the repository to your local machine using the following command: 
-git clone https://github.com/your_username/mobile-document-scanner.git
+git clone [https://github.com/your_username/mobile-document-scanner.git](https://github.com/amirshq/Mobile-Document-Scanner)
 
 Install the required Python libraries using pip:
 pip install -r requirements.txt
