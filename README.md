@@ -12,15 +12,3 @@ Image Enhancement: Various image processing techniques are used to enhance the s
 Export Options: The scanned document can be saved in various formats such as PDF, JPG, or PNG.
 Simple User Interface: The user-friendly interface makes it easy for anyone to use the scanner with ease.
 
-Installation
-Clone the repository to your local machine using the following command:
-bash
-
-git clone https://github.com/your_username/mobile-document-scanner.git
-
-Install the required Python libraries using pip:
-
-pip install -r requirements.txt
-
-Run the scanner:
-python scanner.py
