@@ -11,3 +11,15 @@ Perspective Correction: It applies a four-point perspective transform to straigh
 Image Enhancement: Various image processing techniques are used to enhance the scanned document's quality.
 Export Options: The scanned document can be saved in various formats such as PDF, JPG, or PNG.
 Simple User Interface: The user-friendly interface makes it easy for anyone to use the scanner with ease.
+
+Installation
+Clone the repository to your local machine using the following command:
+bash
+Copy code
+git clone https://github.com/your_username/mobile-document-scanner.git
+Install the required Python libraries using pip:
+Copy code
+pip install -r requirements.txt
+Run the scanner:
+Copy code
+python scanner.py
