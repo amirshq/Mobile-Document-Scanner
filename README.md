@@ -20,5 +20,5 @@ Install the required Python libraries using pip:
 pip install -r requirements.txt
 
 Run the scanner:
-python scanner.py
+scan.py
  
