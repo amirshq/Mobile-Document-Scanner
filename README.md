@@ -22,3 +22,18 @@ pip install -r requirements.txt
 Run the scanner:
 scan.py
  
+How to Use
+Launch the application and grant camera permissions when prompted.
+
+Hold the mobile device over the document you want to scan.
+
+Make sure all four corners of the document are visible on the screen.
+
+The scanner will automatically detect the document's edges and apply perspective correction.
+
+Tap the capture button to save the scanned document.
+
+Choose the desired export format (PDF, JPG, or PNG).
+
+The scanned document will be saved to the device's storage in the selected format.
+
