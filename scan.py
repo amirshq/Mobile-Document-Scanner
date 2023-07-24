@@ -73,4 +73,4 @@ print("STEP 3: Finish perspective transform")
 cv2.imshow("Original", imutils.resize(orig, height = 650))
 cv2.imshow("Scanned", imutils.resize(warped, height = 650))
 cv2.waitKey(0)
-
+# The Waikeys are for stopping the code in each steps , so you can use 0 on your keyboard for next step
