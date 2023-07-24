@@ -58,7 +58,6 @@ cv2.imshow("Outline", image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 print("STEP 2: Finish Find Contours")
-
 print("STEP 3: Start perspective transform")
 # Step 3 : Apply a Perspective Transform and Threshold
 # apply the four point transform to obtain a top-down
