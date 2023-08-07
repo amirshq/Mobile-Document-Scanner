@@ -19,4 +19,5 @@ def order_points(pts):
 	rect[1] = pts[np.argmin(diff)]
 	rect[3] = pts[np.argmax(diff)]
 	# return the ordered coordinates
+	
 	return rect
