@@ -13,7 +13,6 @@ args = vars(ap.parse_args())
 image_path = args["WholeFoodReciet"]
 
 print("STEP 1: Start Edge Detection")
-
 # Load the image
 image = cv2.imread(image_path)
 # Step 1: Edge Detection
