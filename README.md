@@ -31,4 +31,4 @@ Tap the capture button to save the scanned document.
 Choose the desired export format (PDF, JPG, or PNG).
 
 The scanned document will be saved to the device's storage in the selected format.
-
+This Document will be changed and updated. 
